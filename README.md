@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayushi Vishwakarma</h1>
 <h3 align="center">I am a learner. </h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayushi-Vishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="Aayushi-Vishwakarma" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=vish.aayu@gmail.com&tf=1" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" height="30" width="40" /></a>
